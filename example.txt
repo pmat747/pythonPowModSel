@@ -1,0 +1,1 @@
+x = pd.read_table("C:/YourFolder/ligoVirgoSim.txt", delimiter = " ")
